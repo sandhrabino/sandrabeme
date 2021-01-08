@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently Experinmenting on Fuzzing and a few other Random projects 
+- 👯 I’m looking to collaborate on any fun project relating to Reverse Engineering
+- 😄 Some interesting stuff here: https://sandrabeme,wordpresss.com
+- 📫 How to reach me: [Twitter](https://twitter.com/SandhraBino)
+                      [LinkedIn](https://www.linkedin.com/in/sandra-bino-734433187/)
+- 💬 Ask me about ...Life and Death
+
 <!--
 **sandrabeme/sandrabeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

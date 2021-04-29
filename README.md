@@ -15,6 +15,20 @@
 - 💬 Ask me about my :dog: and also, Reverse Engineering.
 - 😄 Pronouns: She/Her
 
+## 🛠 &nbsp;Tech Stack
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&&logo=HTML5&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+
+## &#x1f4c8; GitHub Stats
 
 ![Sandra's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sandrabeme&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
